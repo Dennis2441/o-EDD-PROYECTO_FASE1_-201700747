@@ -9,7 +9,10 @@ package Fase1;
  * @author denni
  */
 public class cliente {
-    
+     public static String idd;
+     public static String nombree;
+     public static String colorr;
+     public static String bww;
      class Nodo {
 
         String id;
